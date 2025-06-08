@@ -20,7 +20,6 @@ These cyberattacks are usually aimed at:
 
 ## 🔐 Three Key Domains in Cybersecurity
 
-> (📷 _Insert image here if you have it — e.g. drag image into GitHub or link to it._)
 
 Cybersecurity is broadly classified into **three operational domains**, each with a distinct role in securing digital infrastructure:
 
