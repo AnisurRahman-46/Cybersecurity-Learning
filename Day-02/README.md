@@ -121,4 +121,5 @@ Clean and simple UI, good for beginners too.
 (This list of Various OS is just for knowledge, You can explore them more. Not recommended to download now)
 
 ---
-That is all for our DAY-02. In this Note we got overall idea about "Type of Cybersecurity Threats", "Some basics about Kali Linux and it's Interface" and "Different type of Operating Systems". Let's go to Another Chapter of our Journey that is DAY-03 ()
+That is all for our DAY-02. In this Note we got overall idea about "Type of Cybersecurity Threats", "Some basics about Kali Linux and it's Interface" and "Different type of Operating Systems". Let's go to Another Chapter of our Journey that is DAY-03 
+( https://github.com/AnisurRahman-46/Cybersecurity-Learning/tree/main/Day-03 )
