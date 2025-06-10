@@ -1,4 +1,3 @@
-# Cybersecurity-Learning
 # Cybersecurity Learning Journey with Anisur
 
 Welcome to my **Cybersecurity Journey Repository**!  
