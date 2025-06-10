@@ -66,7 +66,7 @@ Anyone using the internet needs cybersecurity.
 
 Cybersecurity is broadly classified into **three operational domains**, each with a distinct role in securing digital infrastructure:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9925f5d3-0285-4a03-bf12-2c1cfc618b6f)
 
 
 ### 1. 🟦 Blue Team (Defensive Security)
@@ -86,6 +86,10 @@ Cybersecurity is broadly classified into **three operational domains**, each wit
 - **Focus**: Bridge between Red & Blue teams  
 - **Activities**: TTP (Tactics, Techniques & Procedures) sharing, joint simulations  
 - **Goal**: Continuous improvement of detection and defense mechanisms  
+
+---
+
+- End of DAY-01 Note. It was a very knowledgeable day and we got an Overall Idea on What we are going to study. Let's go to Another Chapter of our Journey that is DAY-02.
 
 ---
 
