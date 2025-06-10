@@ -89,7 +89,7 @@ Cybersecurity is broadly classified into **three operational domains**, each wit
 
 ---
 
-- End of DAY-01 Note. It was a very knowledgeable day and we got an Overall Idea on What we are going to study. Let's go to Another Chapter of our Journey that is DAY-02.
+- End of DAY-01 Note. It was a very knowledgeable day and we got an Overall Idea on What we are going to study. Let's go to Another Chapter of our Journey that is DAY-02 (https://github.com/AnisurRahman-46/Cybersecurity-Learning/tree/main/Day-02)
 
 ---
 
