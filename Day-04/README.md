@@ -66,4 +66,82 @@ Welcome to the **Linux Basic Commands** guide. Here you will learn some of the m
 These are the most common commands every Linux beginner should know. Practice them daily to get comfortable in the terminal environment!
 
 ---
+ ## We will learn how to create a Directory in Kali Linux using these basic commands. 
+
+ ### 📂 Step 1: List Existing Files and Folders
+ 
+Use `ls` to see what's already in the current directory.
+```
+ls
+```
+📌 Example output:
+
+Documents  Downloads  Music  Pictures
+
+ ### 🆕 Step 2: Create a New Directory
+ 
+Use `mkdir` followed by the name of the folder you want to create.
+```
+mkdir cybersec-notes
+```
+✅ This creates a directory called **Cybersec-notes** in the current location.
+
+### 📁 Step 3: Verify the Directory Was Created
+
+Use `ls` again to check if the new folder is listed.
+```
+ls
+```
+📌 Example output:
+
+cybersec-notes Documents  Downloads  Music  Pictures 
+
+### 🔄 Step 4: Change Into the New Directory
+
+Use `cd` to move into the new directory.
+```
+cd cybersec-notes
+```
+✅ Now you're inside the myproject folder.
+
+### 📍 Step 5: Confirm Your New Location
+
+Use `pwd` again to confirm you're in the right place.
+```
+pwd
+```
+📌 Example output:
+
+/home/kali/cybersec-notes
+
+*_Now we have created our own Directory in Kali Linux._* 
+---
+---
+
+
+# 👤 Create a New User in Kali Linux
+
+🔹 Step 1: Open Terminal
+Open the terminal in Kali Linux.
+
+🔹 Step 2: Create a New User
+```
+sudo adduser <username>
+```
+Add any username like John, Alice etc. 
+
+🔹 Step 3: Set or Change the User’s Password
+```
+sudo passwd <username>
+```
+🔹 Step 4: Add User to a Group
+```
+sudo usermod -aG sudo <username>
+```
+
+🔹 Step 5: Done! Test the New User
+Switch to the new user:
+```
+su - <username>
+```
 
