@@ -66,7 +66,7 @@ Welcome to the **Linux Basic Commands** guide. Here you will learn some of the m
 These are the most common commands every Linux beginner should know. Practice them daily to get comfortable in the terminal environment!
 
 ---
- ## We will learn how to create a Directory in Kali Linux using these basic commands. 
+ ## We will learn how to create a _Directory_ in Kali Linux using these basic commands. 
 
  ### 📂 Step 1: List Existing Files and Folders
  
@@ -121,7 +121,7 @@ pwd
 
 # 👤 Create a New User in Kali Linux
 
-🔹 Step 1: Open Terminal
+🔹 Step 1: Open Terminal: 
 Open the terminal in Kali Linux.
 
 🔹 Step 2: Create a New User
@@ -144,4 +144,66 @@ Switch to the new user:
 ```
 su - <username>
 ```
+---
 
+# 🧰 Let's Learn some more useful commands of Kali Linux
+
+This document explains some essential Linux system monitoring and networking commands with example usage and readable output. These are commonly used in Kali Linux 
+
+---
+
+## 1. 📦 Disk Space Usage: `df -h`
+
+**Description**:
+Displays disk space usage for all mounted filesystems in **human-readable** format.
+
+**Command**:
+
+```
+df -h
+```
+**Example Output**: 
+
+![image](https://github.com/user-attachments/assets/680c6041-4fad-4c46-89f3-9e8a3f5a7aed)
+
+---
+
+## 2. 🧠 System Monitor: htop
+
+**Description**:
+An interactive process viewer (like Task Manager) to monitor CPU, memory, and running processes.
+
+**Command**:
+```
+htop
+```
+**Example Output** : 
+
+![image](https://github.com/user-attachments/assets/bae4518b-65d2-4a25-b196-3fddb85eadc8)
+
+---
+
+## 3. 🌐 View Network Interfaces: ifconfig
+
+**Description**:
+Displays all network interfaces and their IP addresses.
+
+**Command**:
+```
+ifconfig
+```
+**Example Output**:
+
+eth0: flags=4163<UP,BROADCAST,RUNNING>  mtu 1500
+        inet 192.168.1.10  netmask 255.255.255.0  broadcast 192.168.1.255
+        ...
+        
+🛠️ If ifconfig is not found, **_install_**  it via:
+```
+sudo apt install net-tools
+```
+---
+
+That's all for today's Learning. Do revise everything once more and most importantly **Practice** by yourself again and again. Let's move to our Day-05 (https://github.com/AnisurRahman-46/Cybersecurity-Learning/tree/main/Day-05)
+
+---
