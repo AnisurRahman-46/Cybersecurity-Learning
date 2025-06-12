@@ -168,6 +168,6 @@ myip
 ```
 ---
 
-**_And done! We have created our custom command of `myip` by which typing a simple word we can get the `inet` (IP Address) value withour getting unnecessary details._**
+**_And done! We have created our custom command of `myip` by which typing a simple word we can get the `inet` (IP Address) value without getting unnecessary details._**
 
 ---
