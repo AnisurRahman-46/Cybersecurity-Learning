@@ -171,3 +171,8 @@ myip
 **_And done! We have created our custom command of `myip` by which typing a simple word we can get the `inet` (IP Address) value without getting unnecessary details._**
 
 ---
+So in our Day-05, we learnt how to make our own Custom Command. Do practice it again and again to get your hands on it. 
+
+Let's move to our Day-06 (https://github.com/AnisurRahman-46/Cybersecurity-Learning/tree/main/Day-06)
+
+---
